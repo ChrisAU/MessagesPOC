@@ -1,0 +1,18 @@
+PODS:
+  - Dwifft (0.8)
+  - FlexLayout (1.3.5)
+  - PinLayout (1.6.0)
+
+DEPENDENCIES:
+  - Dwifft
+  - FlexLayout
+  - PinLayout
+
+SPEC CHECKSUMS:
+  Dwifft: 463e61d07322fdf83b32ee6975ca1b20708db746
+  FlexLayout: 8cfa915850eab120c3d89c3b8b02e3aca96de554
+  PinLayout: a2bbe9057d49a1e326b13dc4fe8c14751f8c8844
+
+PODFILE CHECKSUM: 0ef7acb55b331f3d0c0899ae059929af4d094350
+
+COCOAPODS: 1.4.0
